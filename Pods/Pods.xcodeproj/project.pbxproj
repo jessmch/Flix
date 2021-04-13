@@ -188,6 +188,7 @@
 		BFD657CB7D93F02E94D301FBC6DDA833 /* UIImage+AlamofireImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+AlamofireImage.swift"; path = "Source/UIImage+AlamofireImage.swift"; sourceTree = "<group>"; };
 		C5D08CF27EF524ED9856E22A81ACAB7F /* ImageFilter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageFilter.swift; path = Source/ImageFilter.swift; sourceTree = "<group>"; };
 		C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AlamofireImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8F64F892624BC5200CE8732 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MovieGridViewController.swift; path = ../Flix/MovieGridViewController.swift; sourceTree = "<group>"; };
 		CCF9933E79355A84678765A6BFBA70B3 /* MultipartUpload.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartUpload.swift; path = Source/MultipartUpload.swift; sourceTree = "<group>"; };
 		D0FF301302A2A77E95697F2B5692FA5E /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3383F43CCEB0554F8FDFF26ECFE578A /* Pods-FlixTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlixTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -417,6 +418,7 @@
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
+				C8F64F892624BC5200CE8732 /* MovieGridViewController.swift */,
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				8B7A79262BFE6D94671D449787F3AAA9 /* Frameworks */,
 				402B39314B7EE048DFF0ED6A69D45817 /* Pods */,
